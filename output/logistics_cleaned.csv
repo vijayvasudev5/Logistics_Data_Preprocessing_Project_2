@@ -1,0 +1,101 @@
+Shipment_ID,Origin,Destination,Transport_Mode,Distance_km,Weight_kg,Shipping_Time_hr,Shipping_Cost_INR,Status
+SHP0001,Hyderabad,Kolkata,Road,1359.0,120.22,26.68,4939.81,Delivered
+SHP0002,Kolkata,Pune,Rail,241.0,226.45,5.12,5055.17,Delayed
+SHP0003,Mumbai,Pune,Rail,619.0,811.34,24.62,4679.78,Delivered
+SHP0004,Ahmedabad,Hyderabad,Rail,239.0,386.13,9.35,1837.0,Delivered
+SHP0005,Hyderabad,Bengaluru,Air,1180.0,300.25,32.53,5480.28,Delivered
+SHP0006,Delhi,Mumbai,Rail,642.0,985.37,20.98,4421.99,In Transit
+SHP0007,Pune,Mumbai,Rail,479.0,673.47,16.75,3095.4,In Transit
+SHP0008,Bengaluru,Pune,Road,602.0,989.63,17.79,5493.46,In Transit
+SHP0009,Ahmedabad,Kolkata,Air,871.0,275.06,32.39,5916.47,In Transit
+SHP0010,Kolkata,Delhi,Road,342.0,272.23,14.8,2344.33,Delivered
+SHP0011,Kolkata,Hyderabad,Rail,1093.0,498.58,29.28,4486.13,In Transit
+SHP0012,Hyderabad,Chennai,Air,1270.0,996.16,36.62,8316.4,In Transit
+SHP0013,Mumbai,Hyderabad,Air,278.0,300.57,7.03,2672.35,In Transit
+SHP0014,Bengaluru,Delhi,Rail,1358.0,510.35,37.64,5952.27,Delivered
+SHP0015,Hyderabad,Hyderabad,Air,279.0,929.81,14.53,2343.48,In Transit
+SHP0016,Mumbai,Chennai,Air,191.0,978.2,5.26,3596.95,Delayed
+SHP0017,Kolkata,Delhi,Rail,916.0,964.72,23.63,6815.77,Delayed
+SHP0018,Pune,Bengaluru,Road,974.0,129.79,27.39,5350.24,Delayed
+SHP0019,Chennai,Ahmedabad,Road,1342.0,68.29,36.63,5793.84,Delayed
+SHP0020,Kolkata,Pune,Road,320.0,726.12,12.12,2750.37,Delivered
+SHP0021,Hyderabad,Bengaluru,Rail,1399.0,436.74,34.93,10819.965,Delayed
+SHP0022,Mumbai,Chennai,Rail,744.0,802.59,21.74,4626.55,Delivered
+SHP0023,Bengaluru,Hyderabad,Road,204.0,448.7,9.96,2243.04,Delivered
+SHP0024,Kolkata,Chennai,Rail,882.0,490.78,26.11,3710.39,In Transit
+SHP0025,Pune,Chennai,Road,916.0,699.63,25.49,6072.51,Delivered
+SHP0026,Mumbai,Bengaluru,Air,1236.0,738.38,37.32,5004.18,Delivered
+SHP0027,Pune,Bengaluru,Air,430.0,77.84,21.95,2631.54,Delivered
+SHP0028,Delhi,Pune,Rail,908.0,660.8,21.27,4892.95,In Transit
+SHP0029,Ahmedabad,Hyderabad,Road,318.0,674.97,11.02,2842.76,Delayed
+SHP0030,Chennai,Mumbai,Rail,486.0,510.83,16.66,2574.61,Delayed
+SHP0031,Chennai,Hyderabad,Road,1490.0,510.35,32.78,7748.22,In Transit
+SHP0032,Delhi,Pune,Air,286.0,890.82,6.86,2523.9,Delayed
+SHP0033,Chennai,Bengaluru,Road,590.0,510.35,24.77,3120.64,In Transit
+SHP0034,Bengaluru,Hyderabad,Road,317.0,640.74,16.29,2936.01,Delayed
+SHP0035,Chennai,Delhi,Road,355.0,550.13,12.9,2251.74,In Transit
+SHP0036,Mumbai,Pune,Road,480.0,685.25,12.97,5055.17,Delivered
+SHP0037,Pune,Chennai,Road,894.0,34.54,19.64,6006.36,Delayed
+SHP0038,Delhi,Chennai,Road,271.0,388.72,24.62,2396.69,Delivered
+SHP0039,Delhi,Kolkata,Air,98.0,663.43,5.43,2170.1,Delayed
+SHP0040,Chennai,Bengaluru,Road,728.0,939.84,30.57,4901.85,Delayed
+SHP0041,Pune,Chennai,Road,939.0,352.23,21.26,6619.41,Delayed
+SHP0042,Pune,Delhi,Rail,943.0,11.67,21.49,5550.8,Delivered
+SHP0043,Chennai,Kolkata,Rail,1410.0,921.56,34.22,6644.98,In Transit
+SHP0044,Mumbai,Chennai,Rail,1477.0,302.7,43.09,9812.6,Delayed
+SHP0045,Ahmedabad,Ahmedabad,Air,50.0,310.84,10.64,1336.84,Delivered
+SHP0046,Delhi,Hyderabad,Road,1096.0,510.35,27.22,4491.02,Delayed
+SHP0047,Hyderabad,Ahmedabad,Rail,685.0,232.39,17.01,3381.33,Delayed
+SHP0048,Bengaluru,Hyderabad,Rail,1228.0,202.49,27.9,5219.16,Delivered
+SHP0049,Hyderabad,Ahmedabad,Road,410.0,510.35,12.91,4137.23,In Transit
+SHP0050,Kolkata,Ahmedabad,Road,1417.0,535.82,31.18,8711.78,Delayed
+SHP0051,Ahmedabad,Pune,Rail,1022.0,455.57,24.62,5106.16,In Transit
+SHP0052,Mumbai,Pune,Rail,208.0,716.41,8.98,2414.92,Delayed
+SHP0053,Pune,Kolkata,Rail,362.0,709.35,14.69,3189.56,Delayed
+SHP0054,Chennai,Kolkata,Rail,1474.0,29.34,30.91,7001.9,Delayed
+SHP0055,Kolkata,Delhi,Air,1168.0,801.87,24.72,5820.83,Delayed
+SHP0056,Kolkata,Bengaluru,Road,878.0,726.94,53.57374999999999,6954.64,Delayed
+SHP0057,Delhi,Delhi,Rail,927.0,144.34,19.58,4465.5,In Transit
+SHP0058,Delhi,Pune,Air,913.0,259.75,24.61,5325.68,Delivered
+SHP0059,Pune,Mumbai,Rail,1384.0,49.86,41.49,8396.62,Delayed
+SHP0060,Hyderabad,Mumbai,Rail,284.0,568.33,15.23,2699.5,Delivered
+SHP0061,Pune,Hyderabad,Air,1235.0,35.42,35.97,8067.99,Delayed
+SHP0062,Bengaluru,Delhi,Air,1334.0,250.42,27.48,7757.6,In Transit
+SHP0063,Hyderabad,Kolkata,Rail,1404.0,376.87,32.07,9138.12,Delayed
+SHP0064,Ahmedabad,Ahmedabad,Rail,991.0,710.24,29.42,7269.1,Delayed
+SHP0065,Pune,Ahmedabad,Air,1263.0,275.71,30.83,4843.06,Delayed
+SHP0066,Chennai,Delhi,Rail,1418.0,385.2,49.75,5562.63,Delayed
+SHP0067,Kolkata,Ahmedabad,Air,1486.0,881.31,34.96,6268.4,Delivered
+SHP0068,Kolkata,Pune,Rail,1464.0,481.33,31.36,5001.46,Delayed
+SHP0069,Delhi,Ahmedabad,Rail,1241.0,375.33,28.17,8728.9,In Transit
+SHP0070,Mumbai,Pune,Road,564.0,238.23,13.74,4135.35,Delayed
+SHP0071,Pune,Chennai,Road,1041.0,283.73,28.88,6136.07,In Transit
+SHP0072,Chennai,Mumbai,Air,417.0,309.24,8.93,2088.84,In Transit
+SHP0073,Bengaluru,Chennai,Rail,260.0,873.99,10.61,5055.17,Delivered
+SHP0074,Chennai,Hyderabad,Road,183.0,510.35,12.47,1586.2,Delivered
+SHP0075,Ahmedabad,Ahmedabad,Rail,1192.0,766.8,31.9,5706.03,Delayed
+SHP0076,Pune,Pune,Rail,928.0,312.33,24.62,6123.92,Delayed
+SHP0077,Ahmedabad,Chennai,Road,216.0,165.49,6.27,1536.6,Delivered
+SHP0078,Pune,Kolkata,Road,2350.5,709.89,16.86,5278.5,Delayed
+SHP0079,Chennai,Chennai,Rail,510.0,651.16,18.11,2690.11,Delivered
+SHP0080,Hyderabad,Bengaluru,Rail,1009.0,691.79,29.33,5948.22,Delayed
+SHP0081,Bengaluru,Chennai,Air,710.0,607.68,22.59,5338.85,Delivered
+SHP0082,Ahmedabad,Hyderabad,Rail,408.0,475.8,18.47,2734.82,In Transit
+SHP0083,Chennai,Kolkata,Air,886.0,339.98,26.37,4561.46,Delivered
+SHP0084,Bengaluru,Ahmedabad,Rail,981.0,97.18,24.43,6079.71,Delivered
+SHP0085,Chennai,Mumbai,Rail,434.0,523.25,24.62,2858.59,In Transit
+SHP0086,Chennai,Bengaluru,Air,1480.0,489.86,48.82,9406.92,In Transit
+SHP0087,Mumbai,Ahmedabad,Air,240.0,232.45,5.35,2537.6,In Transit
+SHP0088,Mumbai,Kolkata,Road,1092.0,708.36,28.8,5055.17,Delayed
+SHP0089,Delhi,Chennai,Road,1090.0,748.83,28.72,7806.89,In Transit
+SHP0090,Ahmedabad,Delhi,Rail,661.0,839.1,24.62,5435.88,Delayed
+SHP0091,Kolkata,Pune,Rail,1162.0,383.44,28.88,8022.88,Delivered
+SHP0092,Mumbai,Ahmedabad,Road,701.0,747.26,22.22,4617.3,Delivered
+SHP0093,Ahmedabad,Bengaluru,Air,1078.0,965.7,25.18,7310.62,Delivered
+SHP0094,Kolkata,Hyderabad,Rail,889.0,872.22,14.77,6237.06,Delayed
+SHP0095,Bengaluru,Hyderabad,Road,1142.0,386.21,34.29,7388.82,Delayed
+SHP0096,Hyderabad,Ahmedabad,Road,1451.0,921.72,31.31,7228.39,Delayed
+SHP0097,Mumbai,Pune,Air,663.0,904.39,27.78,4098.96,In Transit
+SHP0098,Pune,Ahmedabad,Air,1209.0,684.98,32.03,7137.11,Delivered
+SHP0099,Chennai,Mumbai,Road,525.0,466.54,15.38,2926.13,In Transit
+SHP0100,Chennai,Pune,Rail,757.0,987.78,28.76,5692.26,In Transit

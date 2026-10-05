@@ -1,0 +1,5 @@
+Column,Lower_Bound,Upper_Bound,Outliers_Treated
+Distance_km,-727.5,2350.5,1
+Weight_kg,-334.06875,1362.5612500000002,0
+Shipping_Time_hr,-7.596249999999994,53.57374999999999,1
+Shipping_Cost_INR,-1603.0949999999998,10819.965,1
